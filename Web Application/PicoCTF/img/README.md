@@ -1,1 +1,1 @@
-I've not used this folder since I known how to embed image to md file by using imgur 😄 If you're using Linux, you can try `xfce4-screenshooter`, it helps you upload your screenshot to imgur automatically and give you code to embed in markdown editor 
+I haven't used this folder since I learned how to embed images in a markdown file using Imgur :grin: . If you're using Linux, you can try xfce4-screenshooter. It helps you automatically upload your screenshots to Imgur and provides you with the code to embed them in a markdown editor
