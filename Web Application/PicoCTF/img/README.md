@@ -1,0 +1,1 @@
+I've not used this folder since I known how to embed image to md file by using imgur 😄 If you're using Linux, you can try `xfce4-screenshooter`, it helps you upload your screenshot to imgur automatically and give you code to embed in markdown editor 
